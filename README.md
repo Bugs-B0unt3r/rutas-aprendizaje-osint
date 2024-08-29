@@ -1,7 +1,7 @@
 # Rutas de aprendizaje OSINT
 
 ## Introducción
-Bienvenido a **OSINT Learning Paths**, un repositorio que te guiará a través de un plan de aprendizaje estructurado en el campo del OSINT (Open Source Intelligence). Este archivo contiene recursos organizados por nivel de habilidad, con enlaces directos a herramientas, cursos, videos, y artículos, todo diseñado para ayudarte a convertirte en un experto en OSINT.
+Bienvenido a **OSINT Learning Paths** o en español como lo preferimos, rutas de aprendizaje de OSINT, este un repositorio que te guiará a través de un plan de aprendizaje estructurado en el campo del OSINT (Open Source Intelligence). Este archivo contiene recursos organizados por nivel de habilidad, con enlaces directos a herramientas, cursos, videos, y artículos, todo diseñado para ayudarte a convertirte en un experto en OSINT.
 
 Este proyecto ha sido inspirado en varios artículos y recursos clave, incluidos:
 - ["Beginner's Field Guide: Where & How to Learn OSINT"](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31) en Medium.
